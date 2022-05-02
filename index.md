@@ -18,3 +18,4 @@ HumanChannel的前身为“盒饭卫视”，于2019年正式开播，2020年更
 * [CCTV-10科教频道](https://tv.cctv.com/live/cctv10/m/)
 * [中央新影中学生频道](http://m.zxstv.com.cn/zhibo)
 * [TV768直播频道](https://live.bilibili.com/6674145?broadcast_type=0&is_room_feed=0&spm_id_from=333.999.0.0)
+* [梦兮自媒体工作室直播频道](https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=24553973&quality=0)
