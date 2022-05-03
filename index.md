@@ -1,4 +1,4 @@
-## 欢迎来到 HumanChannel
+## [热烈庆祝HumanChannel综合频道首次试播圆满成功！](shibo01.md)
 
 HumanChannel的前身为“盒饭卫视”，于2019年正式开播，2020年更名为“鳄鱼君电视台”。
 
