@@ -10,7 +10,7 @@ HumanChannel的前身为“盒饭卫视”，于2019年正式开播，2020年更
 * 电脑冷知识（尚未正式开播）
 
 ### 在线观看
-* 鳄鱼君频道（内部试播中，敬请谅解）
+* [鳄鱼君频道](https://meeting.tencent.com/p/6787354737)
 * [惠州一套](hztv.md)
 * [深圳卫视](https://www.sztv.com.cn/dianshi.shtml?id=7867)
 * [湖南卫视](http://live.mgtv.com/)
