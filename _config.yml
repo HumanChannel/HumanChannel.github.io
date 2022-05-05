@@ -1,1 +1,8 @@
 theme: jekyll-theme-architect
+title: HumanChannel
+description: 鳄鱼君频道官方网站
+show_downloads: false
+social-network-links:
+  email: "HumanChannel@126.com"
+  rss: true
+rss-description: 测试
