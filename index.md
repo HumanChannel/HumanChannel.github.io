@@ -1,6 +1,8 @@
-## [热烈庆祝HumanChannel综合频道首次试播圆满成功！](shibo01.md)
+## 欢迎来到HumanChannel自媒体频道官方网站
 
-HumanChannel的前身为“盒饭卫视”，于2019年正式开播，2020年更名为“鳄鱼君电视台”。
+HumanChannel的前身为“盒饭卫视”，于2019年开播，是一个属于00后自己的直播频道。
+
+2022年5月4日青年节，本频道正式开始试播，并于不久之后加入TV768联播网，与联播网成员一起为生活添色彩。
 
 ### 我们的节目
 * [鳄鱼君电视台（架空电视系列）](https://www.bilibili.com/medialist/detail/ml1587237628?type=1&spm_id_from=333.999.0.0)
@@ -8,17 +10,27 @@ HumanChannel的前身为“盒饭卫视”，于2019年正式开播，2020年更
 * [鳄鱼君有话说（搞笑吐槽）](https://www.bilibili.com/medialist/detail/ml1598841028?type=1&spm_id_from=333.999.0.0)
 * 开心一刻（尚未正式开播）
 * 电脑冷知识（尚未正式开播）
+* 鳄鱼君的离谱日常（尚未正式开播）
 
 ### 在线观看
-* [鳄鱼君频道](https://meeting.tencent.com/p/6787354737)（公开试播中）
-* [惠州一套](hztv.md)
+* [鳄鱼君频道](https://meeting.tencent.com/p/6787354737)（密码：114514）
+* [惠州综合](hztv.md)
+* 惠州公共（暂无直播源）
 * [深圳卫视](https://www.sztv.com.cn/dianshi.shtml?id=7867)
-* [湖南卫视](http://live.mgtv.com/)
-* 英语辅导频道（已停播）
-* [CCTV-10科教频道](https://tv.cctv.com/live/cctv10/m/)
-* [中央新影中学生频道](http://m.zxstv.com.cn/zhibo)
-* [TV768直播频道](https://live.bilibili.com/6674145?broadcast_type=0&is_room_feed=0&spm_id_from=333.999.0.0)
-* [梦兮自媒体工作室直播频道](https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=24553973&quality=0)
+* [深圳移动](https://www.sztv.com.cn/dianshi.shtml?id=7869)
+* [河源综合](https://www.hyrtv.cn/itv/zhds/)
+* [河源公共](https://www.hyrtv.cn/itv/ggds/)
+* [金鹰纪实](http://live.mgtv.com/)
+* [上海纪实人文](https://live.kankanews.com/huikan/)
+* [广东现代教育](https://www.gdtv.cn/tvChannelDetail/13)
+* [广东公共](https://www.gdtv.cn/tvChannelDetail/48)
+* 广东英语辅导（已停播）
+* [纪录频道](https://tv.cctv.com/live/cctvjilu/)
+* [科教频道](https://tv.cctv.com/live/cctv10/m/)
+* [中学生](http://m.zxstv.com.cn/zhibo)
+* 新科动漫（已停播）
+* 世界地理（暂无直播源）
+* [TV768直播频道](https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=6674145&quality=0)
 
 ### 联系我们
 * 我们的邮箱：HumanChannel艾特126点抗木
