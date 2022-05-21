@@ -21,21 +21,17 @@ HumanChannel的前身为“盒饭卫视”，于2019年开播，是一个属于0
 ### 在线观看
 * [鳄鱼君频道](https://meeting.tencent.com/p/6787354737)（密码：114514）
 * [惠州综合](hztv.md)
-* 惠州公共（暂无直播源）
 * [深圳卫视](https://www.sztv.com.cn/dianshi.shtml?id=7867)
 * [深圳移动](https://www.sztv.com.cn/dianshi.shtml?id=7869)
 * [河源综合](https://www.hyrtv.cn/itv/zhds/)
 * [河源公共](https://www.hyrtv.cn/itv/ggds/)
 * [金鹰纪实](http://live.mgtv.com/)
-* [上海纪实人文](https://live.kankanews.com/huikan/)
-* [广东现代教育](https://www.gdtv.cn/tvChannelDetail/13)
-* [广东公共](https://www.gdtv.cn/tvChannelDetail/48)
-* 广东英语辅导（已停播）
-* [纪录频道](https://tv.cctv.com/live/cctvjilu/)
-* [科教频道](https://tv.cctv.com/live/cctv10/m/)
+* [纪实人文](https://live.kankanews.com/huikan/)
+* [现代教育](https://www.gdtv.cn/tvChannelDetail/13)
+* [DV现场](https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=22528436&quality=0)
+* [纪录](https://tv.cctv.com/live/cctvjilu/)
+* [科教](https://tv.cctv.com/live/cctv10/m/)
 * [中学生](http://m.zxstv.com.cn/zhibo)
-* 新科动漫（已停播）
-* 世界地理（暂无直播源）
 * [TV768直播频道](https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=6674145&quality=0)
 
 ### 联系我们
