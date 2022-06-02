@@ -1,4 +1,4 @@
-<!--## 欢迎来到HumanChannel自媒体频道官方网站
+## 欢迎来到HumanChannel自媒体频道官方网站
 
 HumanChannel的前身为“盒饭卫视”，于2019年开播，是一个属于00后自己的轮播频道。
 
@@ -6,7 +6,7 @@ HumanChannel的前身为“盒饭卫视”，于2019年开播，是一个属于0
 
 ### 我们的节目
 * [鳄鱼君电视台（架空电视系列）](https://www.bilibili.com/medialist/detail/ml1587237628?type=1&spm_id_from=333.999.0.0)
-* [TV62（模拟恐怖系列）](https://www.bilibili.com/medialist/detail/ml1591857028?type=1&spm_id_from=333.999.0.0)
+* [TV62（模拟恐怖系列|无限期停更）](https://www.bilibili.com/medialist/detail/ml1591857028?type=1&spm_id_from=333.999.0.0)
 * [鳄鱼君有话说（搞笑吐槽）](https://www.bilibili.com/medialist/detail/ml1598841028?type=1&spm_id_from=333.999.0.0)
 * 开心一刻（尚未正式开播）
 * 电脑冷知识（尚未正式开播）
@@ -32,16 +32,10 @@ HumanChannel的前身为“盒饭卫视”，于2019年开播，是一个属于0
 * [纪录](https://tv.cctv.com/live/cctvjilu/)
 * [科教](https://tv.cctv.com/live/cctv10/m/)
 * [中学生](http://m.zxstv.com.cn/zhibo)
+* [数码时代](http://www.cztv.com/live/?cid=112)
+* [清华大学电视台](https://www.tsinghua.edu.cn/news/spqh/jctj.htm)
 * [TV768直播频道](https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=6674145&quality=0)
 
 ### 联系我们
 * 我们的邮箱：HumanChannel艾特126点抗木
-* 我们的QQ群：635451526（加群请先说明你的B站ID）-->
-## 重要通知
-【重要通知】
-由于某些原因，本人将暂停《鳄鱼君有话说》及整活视频的更新，鳄鱼君轮播频道届时将不会有新的试播安排，恢复时间另行通知。
-
-在一起，就可以！
-
-众志成城，我们就可以渡过难关！
-
+* 我们的QQ群：635451526（加群请先说明你的B站ID）
