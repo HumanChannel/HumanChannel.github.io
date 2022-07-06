@@ -1,0 +1,5 @@
+#EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
+#EXTINF:-1,惠州-1
+http://stream.hztvmg.com/channel1/playlist.m3u8
+#EXTINF:-1,惠州-1
+http://dslive.grtn.cn/hzzh/sd/live.m3u8
